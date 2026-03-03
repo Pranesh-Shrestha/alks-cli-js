@@ -1,6 +1,7 @@
 # ALKS CLI
 
 [![NPM](https://nodei.co/npm/alks.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/alks/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPranesh-Shrestha%2Falks-cli-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPranesh-Shrestha%2Falks-cli-js?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/Cox-Automotive/alks-cli.svg?branch=master)](https://travis-ci.org/Cox-Automotive/alks-cli)
 
@@ -366,3 +367,7 @@ ALKS CLI will output in a variety of formats, it uses the developer default (set
 * `terraformenv`: Outputs environment variables prefixed with `ALKS`
 * `terraformarg`: Outputs environment arguments to pass to a Docker run call prefixed with `ALKS`
 * `aws`: Outputs environment arguments to pass to AWS [docs](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sourcing-external.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPranesh-Shrestha%2Falks-cli-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPranesh-Shrestha%2Falks-cli-js?ref=badge_large)
